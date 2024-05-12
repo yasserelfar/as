@@ -1,0 +1,79 @@
+.paymentCont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(./img/b16.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.paymentForm {
+    width: 700px;
+    padding: 40px;
+    background-color: rgb(255, 255, 255, .7);
+    border-radius: 10px;
+}
+
+.paymentForm .row {
+    display: flex;
+    gap: 15px;
+    
+}
+.inbox {
+    margin: 15px 0px;
+    color: red;
+}
+
+.row .col {
+
+    flex: 1 1 250px;
+}
+
+.col .flex {
+    display: flex;
+    gap: 15px;
+}
+
+.col h3 {
+    font-size: 20px;
+    color: #333;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+
+.inbox label {
+    display: block;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.inbox input {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+.paymentForm button {
+    text-align: center;
+    padding: 12px;
+    border-radius: 6px;
+    height: 100%;
+    width: 100%;
+    border: none;
+    font-size: 17px;
+    outline: none;
+    font-weight: 400;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.paymentCont button:hover {
+    background-color: #088178;
+    color: white;
+}

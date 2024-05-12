@@ -1,0 +1,86 @@
+#prodetails {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 0px;
+}
+
+#prodetails .single {
+    width: 40%;
+    margin-right: 50px;
+}
+
+#prodetails .simg {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.simgcol {
+    flex-basis: 24%;
+    cursor: pointer;
+}
+
+button.normal {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: .2s ease;
+}
+
+#prodetails .sdetails {
+    width: 50%;
+    padding: 30px;
+}
+
+#prodetails .sdetails h4 {
+    padding: 40px 0px 20px 0px;
+}
+
+#prodetails .sdetails h2 {
+
+    font-size: 26px;
+}
+
+#prodetails .sdetails select {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#prodetails .sdetails input {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    outline: none;
+
+
+}
+
+#prodetails .sdetails button {
+    background-color: #088178;
+    color: white;
+
+}
+
+#prodetails .sdetails button:hover {
+    color: #088178;
+    background-color: white;
+}
+
+#prodetails .sdetails span {
+    line-height: 25px;
+}
+
+#is .option:hover {
+    color: #088178;
+    background-color: white;
+}

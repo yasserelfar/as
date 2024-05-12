@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "img": "img/prod/1.jpeg",
+        "name": "Shirt Sea weaves",
+        "price": 400,
+        "prand": "polo"
+    },
+    {
+        "id": 2,
+        "img": "img/prod/2.jpeg",
+        "name": "Green shirt",
+        "prand": "Eagle",
+        "price": 500
+    },
+    {
+        "id": 3,
+        "img": "img/prod/3.jpeg",
+        "name": "White Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "img": "img/prod/4.jpeg",
+        "name": "Shirt",
+        "prand": "H&m",
+        "price": 699
+    },
+    {
+        "id": 5,
+        "img": "img/prod/5.jpeg",
+        "name": "Black Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 320
+    },
+    {
+        "id": 6,
+        "img": "img/prod/6.jpeg",
+        "name": "Gray Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 300
+    },
+    {
+        "id": 7,
+        "img": "img/prod/7.jpeg",
+        "name": "Gray Printed T-Shirt",
+        "prand": "LC",
+        "price": 350
+    },
+    {
+        "id": 8,
+        "img": "img/prod/8.jpeg",
+        "name": "White Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 450
+    },
+    {
+        "id": 9,
+        "img": "img/prod/9.jpeg",
+        "name": "Black Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 200
+    },
+    {
+        "id": 10,
+        "img": "img/prod/10.jpeg",
+        "name": "Caffe Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 699
+    },
+    {
+        "id": 11,
+        "img": "img/prod/11.jpeg",
+        "name": "White Shirt",
+        "prand": "Eagle",
+        "price": 500
+    },
+    {
+        "id": 12,
+        "img": "img/prod/12.jpeg",
+        "name": "Green Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 699
+    },
+    {
+        "id": 13,
+        "img": "img/prod/13.jpeg",
+        "name": "Black Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 400
+    },
+    {
+        "id": 14,
+        "img": "img/prod/14.jpeg",
+        "name": " Printed T-Shirt",
+        "prand": "Eagle",
+        "price": 699
+    },
+    {
+        "id": 15,
+        "img": "img/prod/15.jpeg",
+        "name": " Printed T-Shirt",
+        "price": 500
+    },
+    {
+        "id": 16,
+        "img": "img/prod/16.jpeg",
+        "name": "Shirt",
+        "prand": "Eagle",
+        "price": 541
+    }
+]
